@@ -3,7 +3,7 @@
 
 ![capture](<https://user-images.githubusercontent.com/25239463/32883092-6fd1bb36-cadc-11e7-837e-ac44d6917719.JPG>)
 
-**MAPPING INDIA'S URBANISATION (Urban Growth in India)**
+**Spatial Tool to Explore Patterns of Growth in India**
 
 The data here shows the distribution of built-up area, Settlement and population
 for four time periods: 1975, 1990, 2000 and 2014 along with Nighttime Light
