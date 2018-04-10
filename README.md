@@ -46,9 +46,7 @@ Radiometer Suite), Infrastructure (Highways) in Shapefile format and Urban
 Settlement (Built-up area, Settlement cluster and Population cluster) in Geotiff
 format.
 
-\* Data processed and created by [Urban Expansion
-Observatory](http://uxo.mes.ac.in/) and [IDFC
-Institute](http://www.idfcinstitute.org/).
+\* Data processed and created by [IDFC Institute](<http://www.idfcinstitute.org/>), [Urban Expansion Observatory](https://uxo.mes.ac.in/)  at the Mahatma Education Society and    [Valectus](https://valectus.com/).
 
 If you have any query, please feel free to contact Mr.Kshitij Batra (Email
 ID: <kshitij.batra@idfcinstitute.org>)
