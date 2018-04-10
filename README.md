@@ -1,6 +1,3 @@
-\#\#IndiaMap_Data
-=================
-
 ![capture](<https://user-images.githubusercontent.com/25239463/32883092-6fd1bb36-cadc-11e7-837e-ac44d6917719.JPG>)
 
 **Spatial Tool to Explore Patterns of Growth in India**
